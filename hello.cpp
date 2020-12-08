@@ -2,6 +2,7 @@
 
 int main()
 {
-    cout<"heLLLLLLOOOOOOOOOOO!!!!!!!!!";
+        cout<"heLLLLLLOOOOOOOOOOO!!!!!!!!!";
+	system("clear");
 	return 0;
 }
