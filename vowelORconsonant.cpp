@@ -11,11 +11,11 @@ int main()
     isu=(c=='A'||c=='E'||c=='I'||c=='O'||c=='U');
     if(isl||isu)
     {
-        cout<<c<<" Is A Vowel. ";
+        cout<<c<<"      Is A Vowel. "<<endl;
     }
     else
     {
-        cout<<c<<" Is A Consonant ";
+        cout<<c<<"      Is A Consonant "<<endl;
     }
     system("pause");
     return 0;
