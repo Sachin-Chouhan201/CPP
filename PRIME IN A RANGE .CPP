@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {   
+    system("cls");
     cout<<"PROGRAM TO PRINT PRIME NUMBER IN A GIVEN RANGE "<<endl;
     int a,b;
     cout<<"Enter 2 number ";
