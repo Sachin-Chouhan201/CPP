@@ -14,5 +14,6 @@ int main()
     {
         cout<<"Odd\n";
     }
+     system("pause");
     return 0;
 }
