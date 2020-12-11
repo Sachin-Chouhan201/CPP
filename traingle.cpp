@@ -18,6 +18,6 @@ int main()
     {
         cout<<"This Is A Scalene Triangle. \n";
     }
-    return 0;
     system("pause");
+    return 0;
 }
