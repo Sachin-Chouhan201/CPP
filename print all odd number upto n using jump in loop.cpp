@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main()
-{ 
+{  
+    system("cls");
     int n;
     cout<<"PROGRAM TO PRINT ODD NUMBER UPTO N "<<endl;
     cout<<"Enter A Number : ";
