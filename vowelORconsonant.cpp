@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<"PROGRAM TO CHECK FOR ELIGINLITY OF VOTEING \n ENTER YOUR AGE ";
+    system("cls");
+    cout<<"PROGRAM TO CHECK WHAETHER CHARCTER IS AN VOWEL OR CONSONANT \n ENTER YOUR AGE ";
     char c;
     int isl,isu;
     cout<<"Enter An Alphabet : ";
