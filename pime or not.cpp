@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {   
+    system("cls");
     cout<<"PROGRAM TO CHECCK WHEATHER A NUMBER IS PRIME OR NOT "<<endl;
     int n;
     cout<<"Enter A Number ";
