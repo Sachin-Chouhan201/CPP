@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+    system("cls");
+    cout<<"\n PROGRAM TO CHECK WHEATHER A NUMBER IS EVEN OR ODD ";
     int n;
     cin>>n;
     if(n%2==0)
