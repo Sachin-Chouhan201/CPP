@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+    system("cls");
+    cout<<"\n PROGAM TO COMPARE TWO NUMBERS \n ENTER TWO NUMBERS ";
     int x,y;
     cin>>x>>y;
     if(x==y)
@@ -16,5 +18,6 @@ int main()
     {
         cout<<"Y is Greater Than X";
     }
+    system("pause");
     return 0;
 }
