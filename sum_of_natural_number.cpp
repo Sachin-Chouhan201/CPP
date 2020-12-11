@@ -1,8 +1,9 @@
 #include<iostream>
 using namespace std;
 int main()
-{    
-	cout<<"PROGAM TO PRINT THE SUM OF NATURAL NUMBER"<<endl;
+{   
+    system("clr");
+    cout<<"PROGAM TO PRINT THE SUM OF NATURAL NUMBER"<<endl;
     int n;
     cout<<"ENTER A NUMBER ";
     cin>>n;
