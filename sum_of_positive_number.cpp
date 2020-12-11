@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    system("pause");
+    system("cls");
     cout<<"\n PROGRAM TO PRINT SUM OF POSITIVE NUMBER \n";
     int num;
     int sum=0;
