@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 { 
+    system("cls");
     cout<<"\nPROGRAM TO CHECK FOR ELIGINLITY OF VOTEING \n ENTER YOUR AGE ";
     int age;
     cin>>age;
