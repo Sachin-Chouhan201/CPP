@@ -2,6 +2,8 @@
 using namespace std;
 int  main()
 {
+    system("cls");
+    cout<<"\n PROGRAM TO PINT MAXIMUM AND MINIMUM OF GIVEN NUMBER \n";
     int a,b;
     cin>>a>>b;
     int min,max;
@@ -17,4 +19,5 @@ int  main()
     }
     cout<<"Max = "<<max<<"\n Min = "<<min;
     return 0;
+    system("pause");
 }
