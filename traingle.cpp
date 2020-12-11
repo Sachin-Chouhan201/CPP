@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+    system("cls");
+    cout<<"\n PROGRAM IS TO CHECK TYPE OF TRAINGALE \n ENTER THREE SIDES OF RECTANGLE ";
     int s1,s2,s3;
     cin>>s1>>s2>>s3;
     if(s1==s2 && s2==s3)
@@ -17,4 +19,5 @@ int main()
         cout<<"This Is A Scalene Triangle. \n";
     }
     return 0;
+    system("pause");
 }
