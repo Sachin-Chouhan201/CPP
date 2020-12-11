@@ -14,6 +14,6 @@ int main()
     {
         cout<<"Not Eligible To Vote."<<endl;
     }
-    return 0;
     system("pause");
+    return 0;
 }
