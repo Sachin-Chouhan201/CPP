@@ -7,7 +7,7 @@ int main()
 	int n,m;
 	cout<<"\nEnter The Order of  Matrix ";
 	cin>>n>>m;
-    int a[n][m];	
+   	int a[n][m];	
 	cout<<"Enter The "<<n*m<<" Elements of The Matrix\n";
 	for(int i=0;i<n;i++)
 	{ 
@@ -17,7 +17,7 @@ int main()
 		}
 	}
 	cout<<"\n\n\n\n\n";
-	cout<<"The "<<n*n<<"The Original Matrix is\n";
+	cout<<"The "<<n*m<<"The Original Matrix is\n";
 	for(int i=0;i<n;i++)
 	{ 
         for(int j=0;j<m;j++)
